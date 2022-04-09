@@ -35,7 +35,7 @@ int main() {
 	vector<int> num;
 
 	cin >> n;
-	cin.ignore(); //Ç¥ÁØ ÀÔ·Â ¹öÆÛ¿¡ ³²Àº \n clear
+	cin.ignore(); //Ã‡Â¥ÃÃ˜ Ã€Ã”Â·Ã‚ Â¹Ã¶Ã†Ã›Â¿Â¡ Â³Â²Ã€Âº \n clear
 	getline(cin, temp);
 	cin >> target;
 
